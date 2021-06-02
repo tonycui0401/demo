@@ -70,7 +70,7 @@ termcolor==1.1.0
 tika==1.19
 torch==1.1.0.post2
 Twisted==19.7.0
-urllib3==1.22
+urllib3==1.26.5
 w3lib==1.21.0
 Werkzeug==0.14.1
 wrapt==1.11.2
